@@ -7,3 +7,7 @@ Motivation: This is project # 6 of 50 - this project is designed to show animait
 This was created using udemy 
 
 Instructor: Brad Traversy
+
+propject was deployed using vercel https://scroll-animation-x-50506.vercel.app/
+
+** will make it responsive! 
