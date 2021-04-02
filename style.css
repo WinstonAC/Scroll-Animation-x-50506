@@ -1,4 +1,5 @@
-/* use the * to apply the setting on this line to the whole page  */
+/* use the * to apply the setting on this line to the whole page 
+OVERFLOW-X hidden hides the scroll bar on the bottom */
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
@@ -15,7 +16,10 @@ body {
     justify-content: center;
     margin: 0;
     background-color: #efedd6;
+    overflow-x: hidden;
 }
+
+
 
 h1 {
     margin: 10px;
@@ -45,5 +49,5 @@ h1 {
 }
 
 .box h2 {
-    font-size: 2.5px;
+    font-size: 45px;
 }
